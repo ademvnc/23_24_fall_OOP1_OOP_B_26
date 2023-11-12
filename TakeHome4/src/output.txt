@@ -1,0 +1,37 @@
+A new tank added in the list. TankID: 2
+
+A new tank added in the list. TankID: 3
+
+Total Consumed Fuel Quantity is: 0
+
+------PRINT TANK INFO------
+ Tank's ID: 1
+ Tank's fuel quantity is: 45
+ Tank's capacity is: 100
+ Is tank broken: False
+ Is tank's valve open: Yes
+---------------------------
+
+Engine has been started.
+
+Total Consumed Fuel Quantity is: 280.5
+
+------PRINT TANK INFO------
+ Tank's ID: 1
+ Tank's fuel quantity is: 0
+ Tank's capacity is: 100
+ Is tank broken: False
+ Is tank's valve open: Yes
+---------------------------
+
+------PRINT TANK INFO------
+ Tank's ID: 2
+ Tank's fuel quantity is: 0
+ Tank's capacity is: 200
+ Is tank broken: False
+ Is tank's valve open: Yes
+---------------------------
+
+Engine has been stopped.
+
+Simulation has successfully stopped.

@@ -1,0 +1,17 @@
+add_fuel_tank 100;
+add_fuel_tank 200;
+fill_tank 1 100;
+fill_tank 2 200;
+connect_fuel_tank_to_engine 1;
+connect_fuel_tank_to_engine 2;
+open_valve 1;
+open_valve 2;
+print_total_consumed_fuel_quantity;
+print_tank_info 1;
+start_engine;
+full_throttle 10;
+print_total_consumed_fuel_quantity;
+print_tank_info 1;
+print_tank_info 2;
+stop_engine;
+stop_simulation;
